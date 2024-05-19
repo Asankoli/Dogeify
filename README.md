@@ -1,1 +1,1 @@
-TinDog Starting Files
+Dogeify Starting Files
